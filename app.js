@@ -11,7 +11,7 @@ fs.mkdir(`./jscx-1800`, err => {
 });
 
 fs.mkdir(`jscx-2000`, err => {
-console.log('OK')
+    console.log('OK')
 });
 
 // В конжній папці має бути ще одна пака з імям студента а-ля Viktor Okten. 
